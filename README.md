@@ -1,0 +1,1 @@
+Exercises for University of Helsinki's MOOC Object Oriented Porgramming part II
